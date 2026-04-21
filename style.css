@@ -173,6 +173,11 @@ button{
   border-radius:20px;
   padding:2px 20px;
 }
+button:hover{
+  color:var(--primary-color);
+  border:1px solid var(--primary-color);
+  background-color: var(--white);
+}
 
 .projects{
   padding:20px;
